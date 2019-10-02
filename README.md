@@ -1,5 +1,13 @@
-# gvctoolkit
-Developing A national technology toolkit, integrating technologies of BPM , web services, and RFID to consolidate Egyptian manufacturing
+# Introduction
+Today’s manufacturing enterprises rarely live in isolation. They need to be connected in order to create products from which a group of enterprises, called global-value-chain (GVC), can derive higher value. These chains need to communicate intelligently. This means, the production planning and control systems (known as Enterprise-Resources-Planning ERP) of the chain members should interoperate digitally without human intervention. <BR>
+This product is for the outcome of a research project that is funded by the Science and Technology Development Fund (STDF project 14973), to create a software product serving the digital transformation, of the Egyptian manufacturing companies. It allows a manufacturing company to be a member of a distributed manufacturing network. <BR>
+The resulting system can be plugged into any ERP system. In this work, the limitation of a centralized integration entity to satisfy loosely coupling of distributed systems is overcome. <BR>
+The SOA framework and the remote method invocation (RMI) are applied using SOAP-XML technology. Enterprise integration patterns (EIP) were used in the architecture design. <BR>
+Factories can thus plug in international manufacturing networks, expanding the target market for the Egyptian industry.
+Being a plug-in component means a core feature of the developed software product is loose coupling, which provides the following key attributes:<BR>
+•	Services are invoked remotely independently of their technology, any third part centralized entity, and location<BR>
+•	The plug-in component does not impose any restrictions on the hosting ERP system<BR>
+•	The software is easily configurable to fit the member platform easily<BR>
 
 # Installation
 ## Pre-requisites 
