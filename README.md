@@ -22,7 +22,6 @@ https://dev.mysql.com/doc/refman/5.7/en/installing.html
 Download and install java 8 or newer, you can get it from below URL
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 # Installation 
-	Please check project page at GitHub: https://github.com/MohamedHamedGVC/gvctoolkit
 For windows installation:<BR>
 1-	Download MySQL dump file from gvc-mysql.sql <BR>
 2-	Open MySQL Workbench <BR>
